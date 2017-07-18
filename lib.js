@@ -1,3 +1,5 @@
 //Just the Lib object.
 Lib = {};
-module.exports = Lib;
+if(typeof require !== 'undefined'){
+    module.exports = Lib;
+}
