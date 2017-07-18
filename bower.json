@@ -1,0 +1,14 @@
+{
+  "name": "pavlism-lib",
+  "description": "Just the Lib object",
+  "main": "lib.js",
+  "authors": [
+    "Mark Pavlis"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "pavlism",
+    "lib"
+  ],
+  "homepage": ""
+}
