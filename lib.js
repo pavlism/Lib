@@ -1,5 +1,7 @@
-//Just the Lib object.
-Lib = {};
-if(typeof require !== 'undefined'){
-    module.exports = Lib;
+if(typeof Lib === 'undefined'){
+    debugger;
+    Lib = {};
+    if(typeof require !== 'undefined'){
+        module.exports = Lib;
+    }
 }
